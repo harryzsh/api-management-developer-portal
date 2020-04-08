@@ -1,9 +1,9 @@
 {
   "managementApiUrl": "https://management.harrytest.xyz",
   "managementApiVersion": "2018-06-01-preview",
-  "managementApiAccessToken": "SharedAccessSignature integration&202005071123&M7jkNTYMWWo9NuDEJDhJtALKlBZNYYocKQpnO8gkj9YwC/v+vwsx2FzbKrthdP/AWBuzXBcSw8yw662UsLtFQA==",
+  "managementApiAccessToken": "managementToken",
   "blobStorageContainer": "content",
-  "blobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=harryapimstorage;AccountKey=IW4PI0LKtCDDjWsPFk7d87dRaq8UTRU2Ok6Ecp0Q8PvuBuLx0e9hvV0F5wow0QJCfbSLUWKGqIRII63bF6s25g==;EndpointSuffix=core.windows.net",
+  "blobStorageConnectionString": "ConnectionString",
   "environment": "publishing",
   "useHipCaptcha": false
 }
