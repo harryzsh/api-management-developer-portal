@@ -1,11 +1,11 @@
 {
-  "managementApiUrl": "https://<service-name>.management.azure-api.net",
+  "managementApiUrl": "https://management.harrytest.xyz",
   "managementApiVersion": "2018-06-01-preview",
-  "managementApiAccessToken": "SharedAccessSignature ...",
+  "managementApiAccessToken": "SharedAccessSignature integration&202005071123&M7jkNTYMWWo9NuDEJDhJtALKlBZNYYocKQpnO8gkj9YwC/v+vwsx2FzbKrthdP/AWBuzXBcSw8yw662UsLtFQA==",
   "managementApiUserId": "1",
   "blobStorageContainer": "content",
-  "blobStorageUrl": "https://<account>.blob.core.windows.net?st=...",
+  "blobStorageUrl": "https://harryapimstorage.blob.core.windows.net/?sv=2019-02-02&ss=bfqt&srt=sco&sp=rwdlacup&se=2020-05-07T13:38:58Z&st=2020-04-07T05:38:58Z&spr=https&sig=%2FfjfBsLJCBj9H8L5SgzaeeBl8rXyv%2Fw%2F7n826DiSK6E%3D",
   "environment": "development",
-  "backendUrl": "https://<service-name>.developer.azure-api.net",
+  "backendUrl": "https://portal.harrytest.xyz",
   "useHipCaptcha": false
 }
